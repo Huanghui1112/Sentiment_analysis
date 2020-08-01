@@ -11,9 +11,9 @@ from aip import AipNlp
 import os
 
 
-APP_ID = '18320965'
-API_KEY = 'qLV2eDAb4NW7qkKnxzQIcsSQ'
-SECRET_KEY = 'ejq76BuFDxvXAF8v2wwc9gX6ApNPzChH'
+APP_ID = '你的APP_ID'
+API_KEY = '你的API_KEY'
+SECRET_KEY = '你的SECRET_KEY'
 client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
 
